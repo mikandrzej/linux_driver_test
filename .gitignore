@@ -2,7 +2,8 @@
 *.cmd
 *.symvers
 *.order
-mymodule.mod.c
+*.mod.c
 *.ko
 *.o
 *.mod
+*.out
